@@ -1,0 +1,32 @@
+
+
+body
+{
+
+background-image: radial-gradient(rgb(3, 13, 66),rgb(67, 70, 231),rgb(27, 122, 246));
+
+}
+
+startButton
+{
+   background-color: white; 
+   border-color: black;
+   border-radius: 80px;
+   border-style: solid;
+   border-width: 15px;
+   width: 130px;
+   height: 130px;
+     
+}
+
+startButton
+{
+   background-color: white; 
+   border-color: black;
+   border-radius: 80px;
+   border-style: solid;
+   border-width: 15px;
+   width: 130px;
+   height: 130px;
+     
+}
